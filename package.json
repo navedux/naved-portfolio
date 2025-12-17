@@ -10,7 +10,7 @@
     "@fontsource/inter": "latest",
     "autoprefixer": "^10.4.0",
     "framer-motion": "^12.7.4",
-    "next": "latest",
+    "next": "15.5.8",
     "phosphor-react": "^1.4.1",
     "postcss": "^8.4.0",
     "react": "latest",
